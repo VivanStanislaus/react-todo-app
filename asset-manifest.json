@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "//VivanStanislaus.github.io/react-todo-app/static/css/main.3595f842.chunk.css",
+    "main.js": "//VivanStanislaus.github.io/react-todo-app/static/js/main.937134f0.chunk.js",
+    "main.js.map": "//VivanStanislaus.github.io/react-todo-app/static/js/main.937134f0.chunk.js.map",
+    "runtime-main.js": "//VivanStanislaus.github.io/react-todo-app/static/js/runtime-main.8af74e39.js",
+    "runtime-main.js.map": "//VivanStanislaus.github.io/react-todo-app/static/js/runtime-main.8af74e39.js.map",
+    "static/js/2.655fa6cb.chunk.js": "//VivanStanislaus.github.io/react-todo-app/static/js/2.655fa6cb.chunk.js",
+    "static/js/2.655fa6cb.chunk.js.map": "//VivanStanislaus.github.io/react-todo-app/static/js/2.655fa6cb.chunk.js.map",
+    "index.html": "//VivanStanislaus.github.io/react-todo-app/index.html",
+    "static/css/main.3595f842.chunk.css.map": "//VivanStanislaus.github.io/react-todo-app/static/css/main.3595f842.chunk.css.map",
+    "static/js/2.655fa6cb.chunk.js.LICENSE.txt": "//VivanStanislaus.github.io/react-todo-app/static/js/2.655fa6cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8af74e39.js",
+    "static/js/2.655fa6cb.chunk.js",
+    "static/css/main.3595f842.chunk.css",
+    "static/js/main.937134f0.chunk.js"
+  ]
+}
